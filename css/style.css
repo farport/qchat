@@ -1,0 +1,24 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+div {
+    position: absolute;
+}
+
+input {
+    font-size: 14pt;
+    width: 400px;
+}
+
+button {
+    width: 50px;
+}
+
+textarea {
+    font-size: 14pt;
+    width: 100%;
+}
